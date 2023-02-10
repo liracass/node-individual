@@ -9,12 +9,12 @@
 </ul><br>
 <h1>:computer: COMO EXECUTAR?</h1>
 <h3>1. Com o seu terminal aberto, navegue até o diretório onde deseja que o repositório seja clonado e utilize o seguinte comando:</h3>
-<ul><li>$ git clone [link]</li></ul>
-<h3>2. Crie o package.json</h3>
-<ul><li>$ npm init</li></ul>
-<h3>3. Instale todas as dependencias</h3><ul>
-<li>$ npm install <b>chalk</b></li>
-<li>$ npm install <b>readline-sync</b></li></ul>
+<ul><li> git clone [link]</li></ul>
+<h3>2. Crie o package.json:</h3>
+<ul><li> npm init</li></ul>
+<h3>3. Instale todas as dependencias:</h3><ul>
+<li> npm install <b>chalk</b></li>
+<li> npm install <b>readline-sync</b></li></ul>
 <h3>4. Após terminar: </h3><ul><li>
 digite no terminal de comando <b>node.js</b></li>
 <li>digite as propriedades de sua escolha</li>
